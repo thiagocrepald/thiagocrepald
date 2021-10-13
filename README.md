@@ -1,4 +1,4 @@
-## Falaaa galera, sou Thiago Crepaldi dev. fullstack 👋
+## Falaaa galera, sou Thiago Crepaldi 👋
 
 - 🔭 Hoje trabalho como fullstack
 - 🌱 Estudando sobre Data Science
