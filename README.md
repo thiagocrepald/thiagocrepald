@@ -1,11 +1,7 @@
-## Olá! Eu sou Thiago Crepaldi 👋
-
-Here are some ideas to get you started:
+## Falaaa galera, sou Thiago Crepaldi dev. fullstack 👋
 
 - 🔭 Hoje trabalho como fullstack
-- 🌱 Estudando
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
+- 🌱 Estudando sobre Data Science
 
 <div align="center">
   <a href="https://github.com/thiagocrepald">
