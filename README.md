@@ -1,7 +1,7 @@
 ## Falaaa galera, sou Thiago Crepaldi 👋
 
 - 🔭 Hoje trabalho como fullstack
-- 🌱 Estudando sobre Data Science
+- 🌱 Estudando Teste de Software na USP
 
 <div align="center">
   <a href="https://github.com/thiagocrepald">
