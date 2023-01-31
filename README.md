@@ -1,6 +1,6 @@
 ## Falaaa galera, sou Thiago Crepaldi 👋
 
-- 🔭 Hoje trabalho como fullstack
+- 🔭 Fullstack developer
 - 🌱 Estudando Teste de Software na USP
 
 <div align="center">
